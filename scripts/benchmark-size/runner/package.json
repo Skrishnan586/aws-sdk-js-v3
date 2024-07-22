@@ -14,7 +14,7 @@
     "@rollup/plugin-node-resolve": "^13.3.0",
     "@types/execa": "^2.0.0",
     "@types/p-map": "^2.0.0",
-    "esbuild": "latest",
+    "esbuild": "0.22.0",
     "execa": "^6.1.0",
     "fs-extra": "^10.1.0",
     "handlebars": "^4.7.7",
